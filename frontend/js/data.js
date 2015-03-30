@@ -1,0 +1,12 @@
+var user1 = "plyvo";
+var user2 = "fmirz";
+var user3 = "jng";
+var user4 = "cmcco";
+var processes1 = "6";
+var processes2 = "32";
+var processes3 = "24";
+var processes4 = "17";
+var uptime1 = "7 days, 18:38";
+var uptime2 = "15 days, 12:54";
+var uptime3 = "2 days, 02:32";
+var uptime4 = "6 days, 07:24";

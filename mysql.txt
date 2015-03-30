@@ -1,0 +1,6 @@
+use blink183;
+update performanceMonitor set processes=76, uptime="0 days, 4:16" where user='user1';
+update performanceMonitor set processes=76, uptime="0 days, 4:16" where user='user2';
+update performanceMonitor set processes=76, uptime="0 days, 4:15" where user='user3';
+update performanceMonitor set processes=76, uptime="0 days, 4:15" where user='user4';
+insert into cpu (date, user1, user2, user3, user4) values ("2015-03-03 07:32", 0.6, 0, 0, 0.6);
